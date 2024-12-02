@@ -67,7 +67,7 @@
         <version.maven-shade-plugin>3.2.4</version.maven-shade-plugin>
         <version.log4j>2.14.0</version.log4j>
         <version.kafka>2.4.1</version.kafka>
-        <version.lettuce>5.3.6.RELEASE</version.lettuce>
+        <version.lettuce>6.5.1.RELEASE</version.lettuce>
         <version.metrics>4.1.17</version.metrics>
         <version.jedis>3.5.2</version.jedis>
         <version.amqp-client>5.11.0</version.amqp-client>
